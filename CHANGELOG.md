@@ -1,4 +1,8 @@
-## [1.1.1.0] - 2026-08-11
+## [1.1.2.0] - 2026-08-11
+
+### 🐛 Bug Fixes & Refactors
+
+- 🔧 introduce structural milestone issue templates for GitHub board tracking ([53cbc3e](https://github.com/placeholder/repo/commit/53cbc3e))
 
 ### 🐛 Bug Fixes & Refactors
 
