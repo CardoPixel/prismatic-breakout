@@ -1,4 +1,8 @@
-## [1.1.2.0] - 2026-08-11
+## [1.1.3.0] - 2026-08-11
+
+### 🐛 Bug Fixes & Refactors
+
+- 📝 add repository governance documentation including PR template, security policy, code of conduct, and contributing guidelines ([b1c94cd](https://github.com/placeholder/repo/commit/b1c94cd))
 
 ### 🐛 Bug Fixes & Refactors
 
