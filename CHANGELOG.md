@@ -1,4 +1,8 @@
-## [1.1.3.0] - 2026-08-11
+## [1.2.0.0] - 2026-08-11
+
+### ✨ Features
+
+- ✨ implement Godot MCP addon for external AI assistant integration and add Paddle character movement script closes issue #1 ([5f22a91](https://github.com/placeholder/repo/commit/5f22a91))
 
 ### 🐛 Bug Fixes & Refactors
 
